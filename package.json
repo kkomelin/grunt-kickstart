@@ -1,0 +1,10 @@
+{
+  "name": "grunt-kickstart",
+  "version": "1.0.0",
+  "author": "Konstantin Komelin",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-compass": "latest",
+    "grunt-contrib-watch": "latest"
+  }
+}
